@@ -1,1 +1,1 @@
-Git adding file to same repository
+This repository is just for my training purpose..!
